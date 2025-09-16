@@ -1,0 +1,92 @@
+
+
+h1 {
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 1%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#point {
+    background-color: black;
+    border-radius: none;
+    border: none;
+    color: white;
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+#point:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 2px black;
+    width: 100px;
+}
+
+#text {
+    background-color: black;
+    border-radius: none;
+    border: none;
+    color: white;
+    transition: 0.8s;
+    cursor: text;
+}
+
+#text:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 2px black;
+    width: 100px;
+}
+
+#wait {
+    background-color: black;
+    border-radius: none;
+    border: none;
+    color: white;
+    transition: 0.8s;
+    cursor: wait;
+}
+
+#wait:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 2px black;
+    width: 100px;
+}
+
+#crosshair {
+    background-color: black;
+    border-radius: none;
+    border: none;
+    color: white;
+    transition: 0.8s;
+    cursor: crosshair;
+}
+
+#crosshair:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 2px black;
+    width: 100px;
+}
+
+#notall {
+    background-color: black;
+    border-radius: none;
+    border: none;
+    color: white;
+    transition: 0.8s;
+    cursor: not-allowed;
+}
+
+#notall:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 2px black;
+    width: 100px;
+}
